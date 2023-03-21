@@ -2,3 +2,5 @@ belajar git
 -konsisten untuk membuat konten 2x seminggu
 -membuat platform untuk mengelola vidio
 -membuat forum diskusi
+-kedepannya saya bercita cita ingin menjadi programer
+-kolaborasi dengan berbagai banyak expert
