@@ -1,6 +1,13 @@
-belajar git
--konsisten untuk membuat konten 2x seminggu
--membuat platform untuk mengelola vidio
--kedepannya saya bercita cita ingin menjadi programer
--kolaborasi dengan berbagai banyak expert
-ada aku yang sayang paadamu
+-rencana konten wpu
+
+-java scrip 
+*esp
+*framwork java sicrip
+ -vue
+ -reac
+ angular
+ -struktur data dasar
+ -php framwork
+ -laravel
+ -vlog
+ -python
