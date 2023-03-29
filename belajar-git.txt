@@ -6,6 +6,7 @@
  -vue
  -reac
  angular
+ pengen menamabah angular pak
  -struktur data dasar
  -php framwork
  -laravel
